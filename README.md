@@ -10,6 +10,10 @@
 
 to-do ...
 
+# Goal
+
+<p align="justify">The aim was to develop an extension that creates width and height from any given aspect ratio. It should also be possible to transfer the calculated data to the web UI.</p>
+
 # What the Extension Does
 
 After installation one will find panel within the web UI which looks like the next one when it is opened.
