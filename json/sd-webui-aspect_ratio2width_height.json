@@ -1,0 +1,11 @@
+{
+    "name": "sd-webui-aspect_ratio2width_height",
+    "url": "https://github.com/zentrocdot/sd-webui-aspect_ratio2width_height.git",
+    "description": "Extension for the stable-diffusion-webui adding predefined aspect ratio selector buttons.",
+    "tags": [
+        "script",
+        "ads",
+        "UI related",
+        "extras"
+    ]
+}
