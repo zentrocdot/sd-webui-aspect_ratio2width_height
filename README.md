@@ -20,6 +20,12 @@ After installation one will find panel within the web UI which looks like the ne
 
 <a target="_blank" href=""><img src="./images/image_aspect_ratio_width_height.png" alt="button panel"></a>
 
+One can enter an aspect ratio like 6:5 or 5:6 in the text field. Using the Calculate button Width and Height are calculated. Using the Apply button one can use the calculated values for Width and Height in the web UI.
+
+I added two features, to have more control over the calculation. As everybody knows a resolution must be an integer number and not a floating point number. By the radio button Rounding rounding of the values can be enforced. By the radio button Exact Calculation an exact calculation will be performed.
+
+Let me explain what exact calculation means using an example. Let's say that we want to use an aspect ratio of 6:5. The regular calculation leads to a resolution of 614.4 x 512 pixel. An exact calculation leads to a resolution of 624 x 520 pixel. The first one needs to be rounded to be meaningful usable in the image generation.
+
 # Development and Test Environment
 
 The <i>Extension</i> was devolped and tested under Linux using the web UI AUTOMATIC111 with following specification:
