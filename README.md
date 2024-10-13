@@ -12,9 +12,9 @@ to-do ...
 
 # What the Extension Does
 
-After installation one will find a button panel within the web UI which looks like the next one.
+After installation one will find panel within the web UI which looks like the next one when it is opened.
 
-<a target="_blank" href=""><img src="./images/button_panel_new.png" alt="button panel"></a>
+<a target="_blank" href=""><img src="./images/image_aspect_ratio_width_height.png" alt="button panel"></a>
 
 # Development and Test Environment
 
