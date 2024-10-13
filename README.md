@@ -34,6 +34,10 @@ The <i>Extension</i> was devolped and tested under Linux using the web UI AUTOMA
 
 <p align="justify">The data transfer of the calculated values for width and height is not as straightforward as I would expect. It works and I understand why it works, but it's not elegant.</p>
 
+# Challenge
+
+<p align="justify">Especially with this <i>Extension</i> I had to struggle a lot with the functionality of <i>gradio</i> in my current version. Many things that should work according to the documentation of <i>gradio</i> did not work or only worked to a limited extent with sometimes bizarre results. I had to play tricks to create the interface in its present form.</p>
+
 # Reference
 
 [1] https://github.com/AUTOMATIC1111/stable-diffusion-webui
