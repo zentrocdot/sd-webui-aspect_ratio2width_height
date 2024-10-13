@@ -12,11 +12,13 @@ to-do ...
 
 # What the Extension Does
 
-to-do ...
+After installation one will find a button panel within the web UI which looks like the next one.
+
+<a target="_blank" href=""><img src="./images/button_panel_new.png" alt="button panel"></a>
 
 # Development and Test Environment
 
-The <i>Extension</i> was devolped test under Linux using the web UI AUTOMATIC111 with following specification:
+The <i>Extension</i> was devolped and tested under Linux using the web UI AUTOMATIC111 with following specification:
 
 * API: v1.10.0
 * Python: 3.10.14
