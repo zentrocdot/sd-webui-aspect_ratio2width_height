@@ -8,7 +8,7 @@
 
 # Preface
 
-to-do ...
+The aspect ratio has always been an important aspect of art over time. Since I could not find any suitable tools that did what I wanted, I tried to programme my own Extension for AUTOMATIC1111. Since that worked out successfully, I went on to programme interesting aspects around the topic of aspect ratios.
 
 # Goal
 
@@ -29,6 +29,10 @@ The <i>Extension</i> was devolped and tested under Linux using the web UI AUTOMA
 * torch: 2.1.2+cu121
 * xformers: 0.0.23.post1
 * gradio: 3.41.2
+
+# Unresolved Question
+
+<p align="justify">The data transfer of the calculated values for width and height is not as straightforward as I would expect. It works and I understand why it works, but it's not elegant.</p>
 
 # Reference
 
