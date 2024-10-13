@@ -1,0 +1,43 @@
+#txt2img_accordion_aspect_ratio,
+#img2img_accordion_aspect_ratio {
+	gap: 10px !important;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 6px;  
+}
+
+#txt2img_container_aspect_ratio,
+#img2img_container_aspect_ratio {
+	gap: 10px !important;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 2px;
+	margin-bottom: 0px;
+	padding: 0px;  
+}
+
+#txt2img_row_aspect_ratio,
+#img2img_row_aspect_ratio {
+	margin-right: 6px;
+	margin-left: 6px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding: 2px; 
+	gap: 10px;
+}
+
+#txt2img_row_aspect_ratio button,
+#img2img_row_aspect_ratio button {
+	margin: 0px;
+	gap: 10px !important;
+	max-width: unset !important;
+}
+
+#txt2img_button_aspect_ratio,
+#img2img_button_aspect_ratio {
+	margin: 0px;
+	gap: 10px !important;
+	max-width: unset !important;
+}
