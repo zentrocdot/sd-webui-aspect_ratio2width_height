@@ -90,9 +90,9 @@ class ResolutionCalcScript(scripts.Script):
     def ui(self, is_img2img):
         '''Class method ui.'''
         # Set the css format strings.
-        css_acc = f'{"img" if is_img2img else "txt"}2img_accordion_aspect_ratio' 
-        css_col = f'{"img" if is_img2img else "txt"}2img_container_aspect_ratio'
-        css_row = f'{"img" if is_img2img else "txt"}2img_row_aspect_ratio'
+        css_acc = f'{"img" if is_img2img else "txt"}2img_ARWH_accordion_aspect_ratio' 
+        css_col = f'{"img" if is_img2img else "txt"}2img_ARWH_container_aspect_ratio'
+        css_row = f'{"img" if is_img2img else "txt"}2img_ARWH_row_aspect_ratio'
         # Create a column.
         with gr.Column(elem_id=css_col):
             with InputAccordion(value=False,
